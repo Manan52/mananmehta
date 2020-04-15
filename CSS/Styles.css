@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.top-container {
+  background-color: #e1f2fb;
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+
+}
+
+.Manan-photo {
+  width: 20%;
+  margin: auto;
+  padding: 40px 20px 0px 20px
+}
+
+p {
+  line-height: 2;
+  text-align: justify;
+}
+
+h1 {
+  font-size: 5rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Satisfy', cursive;
+  color: #0f4c75;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #3282b8;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #11999E;
+  text-align: left;
+}
+
+hr {
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 4%;
+margin: 0px auto 40px auto;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 100px;
+}
+
+.below-CA {
+  padding: 20px;
+}
+
+.Valuation {
+  width: 15%;
+  float: left;
+  padding: 0px 20px 20px 0px;
+}
+
+.Taxation {
+  width: 15%;
+  float: right;
+  padding: 0px 0px 00px 20px;
+}
+
+.Accounting {
+  width: 15%;
+  float:left;
+  padding: 0px 20px 0px 0px;
+}
+
+.contact-me {
+  width: 50%;
+  margin:auto;
+}
+
+.btn {
+	-moz-box-shadow:inset 0px -3px 7px 0px #11999e;
+	-webkit-box-shadow:inset 0px -3px 7px 0px #11999e;
+	box-shadow:inset 0px -3px 7px 0px #11999e;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11999e) );
+	background:-moz-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11cdd4', endColorstr='#11999e');
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	border-top-right-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-moz-border-radius-bottomleft:10px;
+	border-bottom-left-radius:10px;
+text-indent:0;
+	border:1px solid #11999e;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:36px;
+	line-height:36px;
+width:150px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #11999e;
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11999e), color-stop(1, #11cdd4) );
+	background:-moz-linear-gradient( center top, #11999e 5%, #11cdd4 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11999e', endColorstr='#11cdd4');
+	background-color:#11999e;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 20px 0px 20px;
+  }
+
+a {
+  color: #11999E;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 0px 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6
+}
